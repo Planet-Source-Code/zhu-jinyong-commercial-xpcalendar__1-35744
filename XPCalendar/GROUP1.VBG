@@ -1,0 +1,3 @@
+VBGROUP 5.0
+StartupProject=Demo.vbp
+Project=..\..\..\..\MyProject\XPCalendar_Third\XPCalendar\XPCalendar\XP_Calendar.vbp
